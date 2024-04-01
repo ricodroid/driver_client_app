@@ -637,10 +637,10 @@
             },
             "nonExportableDeclarations": {
                 "classes": 4,
-                "callableMembers": 28
+                "callableMembers": 26
             },
             "overriddenCallableMembers": 100,
-            "numberOfIrElements": 2837
+            "numberOfIrElements": 2805
         }
     }
 ]
