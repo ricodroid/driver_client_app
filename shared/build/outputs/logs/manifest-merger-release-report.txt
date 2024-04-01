@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml:2:13-83
+INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml:2:13-83
+	package
+		INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml
+	xmlns:android
+		ADDED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml:2:23-81
+uses-sdk
+INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml reason: use-sdk injection requested
+INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml
+INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml
+	android:targetSdkVersion
+		INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml
+	android:minSdkVersion
+		INJECTED from /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest13569307794382185855.xml

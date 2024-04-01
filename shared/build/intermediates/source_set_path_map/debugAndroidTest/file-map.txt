@@ -1,0 +1,9 @@
+com.petros.efthymiou.driverclientapp.test.shared-sqlite-framework-2.3.1-0 /Users/r_murata/.gradle/caches/transforms-3/113ad4deabb36d38f957399c2ae7f1ea/transformed/sqlite-framework-2.3.1/res
+com.petros.efthymiou.driverclientapp.test.shared-lifecycle-viewmodel-2.6.2-1 /Users/r_murata/.gradle/caches/transforms-3/3811879ad2fb28c5426f91942510368a/transformed/lifecycle-viewmodel-2.6.2/res
+com.petros.efthymiou.driverclientapp.test.shared-sqlite-2.3.1-2 /Users/r_murata/.gradle/caches/transforms-3/ea6646f7a91c75b794a32313b1e946f1/transformed/sqlite-2.3.1/res
+com.petros.efthymiou.driverclientapp.test.shared-lifecycle-viewmodel-ktx-2.6.2-3 /Users/r_murata/.gradle/caches/transforms-3/f42df3291ae4e4e5a4929bff12ddb522/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.petros.efthymiou.driverclientapp.test.shared-androidTest-4 /Users/r_murata/projects/obd2/DailyPulse/shared/build/generated/res/resValues/androidTest/debug
+com.petros.efthymiou.driverclientapp.test.shared-mergeDebugAndroidTestResources-5 /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.petros.efthymiou.driverclientapp.test.shared-mergeDebugAndroidTestResources-6 /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.petros.efthymiou.driverclientapp.test.shared-merged_res-7 /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/merged_res/debugAndroidTest
+com.petros.efthymiou.driverclientapp.test.shared-packaged_res-8 /Users/r_murata/projects/obd2/DailyPulse/shared/build/intermediates/packaged_res/debug

@@ -1,0 +1,4 @@
+com.petros.efthymiou.driverclientapp.android.test.androidApp-androidTest-0 /Users/r_murata/projects/obd2/DailyPulse/androidApp/build/generated/res/resValues/androidTest/debug
+com.petros.efthymiou.driverclientapp.android.test.androidApp-mergeDebugAndroidTestResources-1 /Users/r_murata/projects/obd2/DailyPulse/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.petros.efthymiou.driverclientapp.android.test.androidApp-mergeDebugAndroidTestResources-2 /Users/r_murata/projects/obd2/DailyPulse/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.petros.efthymiou.driverclientapp.android.test.androidApp-merged_res-3 /Users/r_murata/projects/obd2/DailyPulse/androidApp/build/intermediates/merged_res/debugAndroidTest

@@ -1,0 +1,4 @@
+#Mon Apr 01 16:15:08 JST 2024
+base.0=/Users/r_murata/projects/obd2/DailyPulse/androidApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

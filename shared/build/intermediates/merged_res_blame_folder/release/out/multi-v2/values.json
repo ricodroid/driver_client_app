@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.petros.efthymiou.driverclientapp.shared-mergeReleaseResources-5:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/r_murata/.gradle/caches/transforms-3/3811879ad2fb28c5426f91942510368a/transformed/lifecycle-viewmodel-2.6.2/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.petros.efthymiou.driverclientapp.shared-merged_res-7:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/r_murata/.gradle/caches/transforms-3/3811879ad2fb28c5426f91942510368a/transformed/lifecycle-viewmodel-2.6.2/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

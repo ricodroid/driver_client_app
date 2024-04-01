@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master.dia",
+    "emit-module-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master.swiftdeps"
+  },
+  "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/obd2/DailyPulse/iosApp/iosApp/ContentView.swift" : {
+    "const-values" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/obd2/DailyPulse/iosApp/iosApp/iOSApp.swift" : {
+    "const-values" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.d",
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.o",
+    "llvm-bc" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.bc",
+    "object" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.o",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/obd2/DailyPulse/iosApp/iosApp/Screens/AboutListView.swift" : {
+    "const-values" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.d",
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.o",
+    "llvm-bc" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.bc",
+    "object" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.o",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutListView~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/obd2/DailyPulse/iosApp/iosApp/Screens/AboutScreen.swift" : {
+    "const-values" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.d",
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.o",
+    "llvm-bc" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.bc",
+    "object" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.o",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/AboutScreen~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/obd2/DailyPulse/iosApp/iosApp/Screens/ArticlesScreen.swift" : {
+    "const-values" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.d",
+    "diagnostics" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.o",
+    "llvm-bc" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.bc",
+    "object" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.o",
+    "swift-dependencies" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/obd2/DailyPulse/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ArticlesScreen~partial.swiftmodule"
+  }
+}
